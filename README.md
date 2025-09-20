@@ -1,5 +1,5 @@
-## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Ex. No: 7 – Configure Initial Router Settings
+# Date: 20.09.25
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -79,11 +79,11 @@ ________________________________________
 •	To save configuration: copy running-config startup-config, wr, copy startup-config flash<br>
 ________________________________________
 # Output (Attach Screenshots)
-•	Console connection to router<br>
-•	Running configuration before and after<br>
-•	MOTD banner display<br>
-•	Password prompts<br>
-•	Saved configuration in NVRAM and flash<br>
+
+<img width="1920" height="1080" alt="cisco 1" src="https://github.com/user-attachments/assets/1472ed20-31dd-46c9-ad5b-90fc3f3900ea" />
+<img width="1920" height="1080" alt="cisco 2" src="https://github.com/user-attachments/assets/46f7ab79-9fd1-4f4d-8283-423a45294f6d" />
+
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
